@@ -5,14 +5,11 @@
 	import {faBars} from '@fortawesome/free-solid-svg-icons';
 	let show = false;
 	const _links = [
-		["./", "Home"],
-		["./projects", "Projects"],
-		["./timeline", "Timeline"],
-		["./neat", "Things I Like"]
+		["/", "Home"],
+		["/projects", "Projects"],
+		["/timeline", "Timeline"],
+		["/neat", "Things I Like"]
 	];
-	function handleBurger() {
-		show = !show;
-	}
 </script>
 
 <nav class="navbar">

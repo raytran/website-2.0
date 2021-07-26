@@ -39,7 +39,7 @@
             const metadata = p.metadata
             let intersection = metadata.tags.filter(v => tags.includes(v))
             if (intersection.length === tags.length) {
-                posts.push({meta: metadata, path: 'projects/' + post.slice(2, -3)})
+                posts.push({meta: metadata, path: '/projects/' + post.slice(2, -3)})
             }
         }
         posts = posts.sort((a, b) => b.meta.published.localeCompare(a.meta.published));
