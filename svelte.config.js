@@ -13,7 +13,9 @@ const config = {
 
     kit: {
         // eslint-disable-next-line @typescript-eslint/no-var-requires
-        adapter: staticAdapter(),
+        adapter: staticAdapter({
+            fallback: "index.html"
+        }),
 		target: '#svelte'
 	}
 };

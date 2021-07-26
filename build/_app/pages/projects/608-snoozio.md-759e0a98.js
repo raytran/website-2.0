@@ -1,0 +1,1 @@
+import"../../chunks/vendor-6faa5744.js";import"../../chunks/ProjectPage-8d746a0a.js";export{a as default,m as metadata}from"../../chunks/608-snoozio-6375f01a.js";import"../../chunks/Card-e4ccefa7.js";
