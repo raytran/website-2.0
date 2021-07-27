@@ -8,7 +8,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>raytran.net - Home</title>
 </svelte:head>
 
 <style>

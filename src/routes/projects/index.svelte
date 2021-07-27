@@ -1,3 +1,6 @@
+<svelte:head>
+    <title>raytran.net - Projects</title>
+</svelte:head>
 <link
         rel="stylesheet"
         href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
