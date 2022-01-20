@@ -1,10 +1,6 @@
 <svelte:head>
     <title>raytran.net - Projects</title>
 </svelte:head>
-<link
-        rel="stylesheet"
-        href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
-/>
 
 <script>
     import PreviewCard from "../../components/PreviewCard.svelte";
@@ -96,8 +92,6 @@
         <br>
         <a class="hyperlink" href="https://github.com/raytran">You can also see some of my github repos here.</a>
     </p>
-
-    <img alt="github stats" class="img-fluid" style="width: 100%" src="https://grass-graph.moshimo.works/images/raytran.png">
 </div>
 <!--
 <div bind:this={calendar}>A github calendar should be loading..</div>
