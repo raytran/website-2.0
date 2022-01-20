@@ -13,8 +13,9 @@
 	"devDependencies": {
 		"@fortawesome/free-brands-svg-icons": "^5.15.3",
 		"@fortawesome/free-solid-svg-icons": "^5.15.3",
+		"@sveltejs/adapter-cloudflare": "^1.0.0-next.8",
 		"@sveltejs/adapter-static": "^1.0.0-next.13",
-		"@sveltejs/kit": "next",
+		"@sveltejs/kit": "^1.0.0-next.234",
 		"@types/cookie": "^0.4.0",
 		"@typescript-eslint/eslint-plugin": "^4.19.0",
 		"@typescript-eslint/parser": "^4.19.0",

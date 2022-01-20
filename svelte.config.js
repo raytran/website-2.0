@@ -1,7 +1,7 @@
 import { mdsvex } from "mdsvex";
 import mdsvexConfig from "./mdsvex.config.js";
 import preprocess from 'svelte-preprocess';
-import staticAdapter from "@sveltejs/adapter-static"
+import cloudflare from '@sveltejs/adapter-cloudflare';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -12,12 +12,11 @@ const config = {
     preprocess: [preprocess(), mdsvex(mdsvexConfig)],
 
     kit: {
-        // eslint-disable-next-line @typescript-eslint/no-var-requires
-        adapter: staticAdapter({
-            fallback: "index.html"
-        }),
-		target: '#svelte'
-	}
+        target: '#svelte',
+	adapter: cloudflare({
+		// any esbuild options
+	})
+    }
 };
 
 export default config;
