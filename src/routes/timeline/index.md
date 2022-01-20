@@ -7,7 +7,6 @@
 - 6.172 Performance Engineering
 - 6.S081 Operating Systems
 - 21M.737 Interactive Design Projection
-
 - Was still interning at Cloudflare for the Fall 
 
 ## Summer 2021
@@ -32,6 +31,7 @@
 - 6.036 Intro to Machine Learning
 - 21M.361 Electronic Music Composition
 - 15.S20 3D printing seminar
+
 ## Spring 2019
 - 6.006 Intro to Algorithms
 - 6.009 Fundamentals of Programming
