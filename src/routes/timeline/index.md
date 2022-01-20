@@ -1,4 +1,19 @@
 # Timeline
+
+## IAP 2022
+- SWE Intern @ Five Rings Capital LLC
+
+## Fall 2021
+- 6.172 Performance Engineering
+- 6.S081 Operating Systems
+- 21M.737 Interactive Design Projection
+
+- Was still interning at Cloudflare for the Fall 
+
+## Summer 2021
+- SWE Intern @ Cloudflare
+  - Worked on the Workers team
+
 ## Spring 2021
 - 6.824 Distributed Systems (Grad)
 - 6.115 Microcontroller Project Laboratory
