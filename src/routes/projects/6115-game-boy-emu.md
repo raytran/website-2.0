@@ -16,7 +16,7 @@ For my final project, I created a Game Boy emulator on the Cypress PSOC 5, an em
 Here's a demo video: 
 
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/4Qr0IfhJqd8" 
+<iframe title="6115 gb demo" src="https://www.youtube.com/embed/4Qr0IfhJqd8" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 

@@ -29,7 +29,7 @@ Meet **snooz.io**: the alarm clock that takes the phrase "You snooze, you lose" 
 
 ### Demonstration
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/jia24XHIY40" 
+<iframe title="demonstration" src="https://www.youtube.com/embed/jia24XHIY40" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 
@@ -225,20 +225,20 @@ During the first week, we focused on making a functioning alarm clock, as we bel
 
 ## The pressure plate
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/ePINKAeomzA" 
+<iframe title="pressure plate" src="https://www.youtube.com/embed/ePINKAeomzA" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 
 ## The alarm clock 
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/eSbfQ7fxSTo" 
+<iframe title="alarm clock" src="https://www.youtube.com/embed/eSbfQ7fxSTo" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 
 
 ## The webapp
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/c9gUS6XQ914" 
+<iframe title="webapp" src="https://www.youtube.com/embed/c9gUS6XQ914" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 
@@ -246,7 +246,7 @@ In this first week, we had also already outlined basic punishment features we wa
 
 ## Speech to text deactivation
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/xF-02kP3Qnc" 
+<iframe title="tts demo" src="https://www.youtube.com/embed/xF-02kP3Qnc" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 
@@ -255,25 +255,25 @@ During this second week, our parts hadn't arrived yet, but we still wanted to ac
 
 ### Communication between ESP32 + server
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/XJ_CGR7l7kU" 
+<iframe title="esp32//server" src="https://www.youtube.com/embed/XJ_CGR7l7kU" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 
 ### Pressure plate deactivation
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/XNq-6N0mDuY" 
+<iframe title="pplate" src="https://www.youtube.com/embed/XNq-6N0mDuY" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 
 ### Facebook posting
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/Ds6EPyNgpX8" 
+<iframe title="fb post" src="https://www.youtube.com/embed/Ds6EPyNgpX8" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 
 ### Twitter posting
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/m2cXAAxV31A" 
+<iframe title="twitter post" src="https://www.youtube.com/embed/m2cXAAxV31A" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 
@@ -282,19 +282,19 @@ Unsure if the parts would arrive on time, we all tried our best to work with wha
 
 ### Improved webapp
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/4mzZdwsf_0Y" 
+<iframe title="improved webapp" src="https://www.youtube.com/embed/4mzZdwsf_0Y" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 
 ### New maze deactivation method
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/OacnRwTp0j8" 
+<iframe title="new maze" src="https://www.youtube.com/embed/OacnRwTp0j8" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 
 ### Audio demonstration
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/islVHL0O85k" 
+<iframe title="audio demo" src="https://www.youtube.com/embed/islVHL0O85k" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 
@@ -303,19 +303,19 @@ Finally, week 4 was dedicated to once again implementing all of these additional
 
 ### Facebook punishment
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/_xvOW80lT0I" 
+<iframe title="fb punishment" src="https://www.youtube.com/embed/_xvOW80lT0I" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 
 ### Trivia deactivation method
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/WICXZezQxLI" 
+<iframe title="trivia" src="https://www.youtube.com/embed/WICXZezQxLI" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 
 ### Maze deactivation method integrated
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/EADwA7QUaTU" 
+<iframe title="maze deact" src="https://www.youtube.com/embed/EADwA7QUaTU" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 
@@ -323,7 +323,7 @@ We also worked on just making it more intuitive and tightening up some things we
 
 ### Encryption
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/vUlGZvqrOZI" 
+<iframe title="encryption" src="https://www.youtube.com/embed/vUlGZvqrOZI" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 

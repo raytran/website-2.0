@@ -5,8 +5,8 @@ const config = {
     "dashes": "oldschool"
   },
   layout: {
-    blog: 'src/components/ProjectPage.svelte',
-    _: 'src/components/Card.svelte'
+    blog: 'src/lib/ProjectPage.svelte',
+    _: 'src/lib/Card.svelte'
   },
   "remarkPlugins": [],
   "rehypePlugins": []

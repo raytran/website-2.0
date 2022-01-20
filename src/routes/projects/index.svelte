@@ -3,7 +3,7 @@
 </svelte:head>
 
 <script>
-    import PreviewCard from "../../components/PreviewCard.svelte";
+    import PreviewCard from "$lib/PreviewCard.svelte";
     import Heap from "heap";
     const allPosts = import.meta.globEager(`./*.md`);
 

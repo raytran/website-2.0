@@ -23,7 +23,7 @@ tags: personal, multiplayer, website, rust, svelte
 TLDR: I made this chess website that lets you design custom pieces and boards. Play on it [here](https://protochess.com). You can play against the chess engine I wrote as well.
 
 <div style="position: relative; width:100%; height:0; padding-bottom: 56.25%;">
-<iframe src="https://www.youtube.com/embed/ddaMFWH6ppY" 
+<iframe title="protochess vid" src="https://www.youtube.com/embed/ddaMFWH6ppY" 
 frameborder="0" allowfullscreen style="position: absolute; top:0; left: 0; width:100%; height:100%;"></iframe>
 </div>
 

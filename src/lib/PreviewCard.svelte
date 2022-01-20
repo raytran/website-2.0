@@ -17,7 +17,7 @@
 		height: 100%;
 	}
 
-	.thumbnail, .summary {
+	.thumbnail {
 		width: 100%;
 	}
 
